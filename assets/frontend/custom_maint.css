@@ -1,0 +1,24 @@
+#base {
+    display: none;
+}
+
+.tb_header {
+    width: 100%;
+
+}
+
+.RB.Xbutton {
+    border-radius: 25px;
+    background-color: black;
+    color: white !important;
+    border-color: blue !important;
+}
+
+.RB.Xbutton:hover {
+    background-color: white;
+    color: black !important;
+    border-color: blue !important;
+    border-style: solid !important;
+    border: 1px !important;
+
+}
