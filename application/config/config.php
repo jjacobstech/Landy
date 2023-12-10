@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = "http://localhost:88/Vmsapplication/";
+$config['base_url'] = "%BASEURL%";
 
 /*
 |--------------------------------------------------------------------------
@@ -524,4 +524,4 @@ $config['proxy_ips'] = '';
 
 $config['google_api_key'] = 'AIzaSyCP7Ie5eZVyzyOPEhGd2UWAr9DZaXg25xs';
 
-$config['company_name'] = 'Vehicle Management + Live GPS Tracking';
+$config['company_name'] = 'Landy';
